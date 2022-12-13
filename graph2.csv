@@ -1,434 +1,434 @@
-Park Name,Activities,Park ID
-Fort Tryon Park,Foraging,1
-Fort Tryon Park,Foraging,1
-Fort Tryon Park,Eating,1
-Fort Tryon Park,Running,1
-Fort Tryon Park,Running,1
-Fort Tryon Park,Climbing,1
-Fort Tryon Park,Foraging,1
-Fort Tryon Park,Climbing,1
-Fort Tryon Park,Foraging,1
-Fort Tryon Park,Eating,1
-Fort Tryon Park,Eating,1
-Fort Tryon Park,Running,1
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Chasing,2
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Eating,2
-J. Hood Wright Park,Climbing,2
-J. Hood Wright Park,Sleeping,2
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Eating,2
-J. Hood Wright Park,Running,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Climbing,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Foraging,2
-J. Hood Wright Park,Eating,2
-J. Hood Wright Park,Sitting,2
-Highbridge Park,Chasing,3
-Highbridge Park,Chasing,3
-Highbridge Park,Running,3
-Highbridge Park,Climbing,3
-Highbridge Park,Running,3
-Highbridge Park,Running,3
-Highbridge Park,Running,3
-Highbridge Park,Running,3
-Highbridge Park,,3
-Highbridge Park,Climbing,3
-Highbridge Park,Vocalization,3
-Highbridge Park,Running,3
-Highbridge Park,Running,3
-Highbridge Park,Running,3
-Highbridge Park,Jumped to building,3
-Highbridge Park,"Eating, Foraging",3
-St. Nicholas Park,Climbing,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,Eating,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,"Climbing, Eating",4
-St. Nicholas Park,"Chasing, Climbing",4
-St. Nicholas Park,"Chasing, Climbing",4
-St. Nicholas Park,Running,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,Running,4
-St. Nicholas Park,Foraging,4
-St. Nicholas Park,Foraging,4
-Riverside Park (Section Near Grant Memorial),"Running, up tree",5
-Riverside Park (Section Near Grant Memorial),"Running, up tree",5
-Riverside Park (Section Near Grant Memorial),"Running, up tree",5
-Riverside Park (Section Near Grant Memorial),Chasing,5
-Riverside Park (Section Near Grant Memorial),Chasing,5
-Riverside Park (Section Near Grant Memorial),Sitting on branch,5
-Riverside Park (Section Near Grant Memorial),"Running, up tree",5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Chasing,5
-Riverside Park (Section Near Grant Memorial),Chasing,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Running,5
-Riverside Park (Section Near Grant Memorial),Running,5
-Riverside Park (Section Near Grant Memorial),Running,5
-Riverside Park (Section Near Grant Memorial),,5
-Riverside Park (Section Near Grant Memorial),Chasing,5
-Riverside Park (Section Near Grant Memorial),Chasing,5
-Riverside Park (Section Near Grant Memorial),Sitting at attention,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Eating,5
-Riverside Park (Section Near Grant Memorial),Foraging,5
-Riverside Park (Section Near Grant Memorial),Foraging,5
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,"Chasing, Climbing, Eating",6
-Marcus Garvey Park,"Chasing, Climbing, Eating",6
-Marcus Garvey Park,"Chasing, Climbing, Eating",6
-Marcus Garvey Park,"Chasing, Climbing, Eating",6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,"Climbing, Eating",6
-Marcus Garvey Park,"Climbing, Eating",6
-Marcus Garvey Park,Running,6
-Marcus Garvey Park,Running,6
-Marcus Garvey Park,"Sitting, shouting",6
-Marcus Garvey Park,"Sitting, shouting",6
-Marcus Garvey Park,"Sitting, shouting",6
-Marcus Garvey Park,"Sitting, shouting",6
-Marcus Garvey Park,"Defending tree, shouting",6
-Marcus Garvey Park,"Defending tree, shouting",6
-Marcus Garvey Park,"Defending tree, shouting",6
-Marcus Garvey Park,"Defending tree, shouting",6
-Marcus Garvey Park,"Defending tree, shouting",6
-Marcus Garvey Park,"Defending tree, shouting",6
-Marcus Garvey Park,Eating,6
-Marcus Garvey Park,"Chasing, Climbing",6
-Marcus Garvey Park,"Chasing, Climbing",6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Climbing,6
-Marcus Garvey Park,Cleaning,6
-Marcus Garvey Park,Climbing,6
-Madison Square Park,Foraging,7
-Madison Square Park,Sitting,7
-Madison Square Park,Foraging,7
-Madison Square Park,Resting in tree,7
-Madison Square Park,Running,7
-Madison Square Park,Sitting,7
-Madison Square Park,Sitting,7
-Madison Square Park,Foraging,7
-Madison Square Park,Foraging,7
-Madison Square Park,"Climbing, Foraging",7
-Madison Square Park,"Running, Climbing, Foraging",7
-Union Square Park,Climbing,8
-Union Square Park,"Running, Eating, Foraging",8
-Union Square Park,Foraging,8
-Union Square Park,Foraging,8
-Union Square Park,Digging,8
-Union Square Park,Climbing,8
-Union Square Park,"Climbing, Eating",8
-Union Square Park,Climbing,8
-Union Square Park,"Running, Digging",8
-Union Square Park,"Eating, Foraging",8
-Union Square Park,Foraging,8
-Union Square Park,"Eating, Foraging",8
-Union Square Park,Foraging,8
-Union Square Park,"Eating, Foraging",8
-Union Square Park,"Eating, Foraging",8
-Union Square Park,"Eating, Foraging",8
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Climbing,9
-Stuyvesant Square Park,Climbing,9
-Stuyvesant Square Park,"Climbing, Eating",9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Chasing,9
-Stuyvesant Square Park,Chasing,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Climbing,9
-Stuyvesant Square Park,Chasing,9
-Stuyvesant Square Park,Eating,9
-Stuyvesant Square Park,Eating,9
-Stuyvesant Square Park,Eating,9
-Stuyvesant Square Park,,9
-Stuyvesant Square Park,Eating,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Grooming,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,,9
-Stuyvesant Square Park,,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Foraging,9
-Stuyvesant Square Park,Foraging,9
-Washington Square Park,Foraging,10
-Washington Square Park,Foraging,10
-Washington Square Park,Foraging,10
-Washington Square Park,Foraging,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,Foraging,10
-Washington Square Park,,10
-Washington Square Park,Nesting,10
-Washington Square Park,Climbing,10
-Washington Square Park,Chasing,10
-Washington Square Park,Eating,10
-Washington Square Park,Chasing,10
-Washington Square Park,Chasing,10
-Washington Square Park,Chasing,10
-Washington Square Park,Chasing,10
-Washington Square Park,Chasing,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,Foraging,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Washington Square Park,,10
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Running,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Chasing,11
-Tompkins Square Park,Chasing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Climbing (down tree),11
-Tompkins Square Park,Climbing (down tree),11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Sitting,11
-Tompkins Square Park,Sitting (in tree hole),11
-Tompkins Square Park,Lounging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Running,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Sitting,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Climbing (down),11
-Tompkins Square Park,Climbing (down),11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Chasing,11
-Tompkins Square Park,Chasing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Climbing,11
-Tompkins Square Park,Foraging,11
-Tompkins Square Park,Foraging,11
-John V. Lindsay East River Park,"Running, Eating",12
-John V. Lindsay East River Park,"Running, Eating (peanuts)",12
-John V. Lindsay East River Park,"Climbing, Watching #2",12
-John V. Lindsay East River Park,"Running, Chasing, Eating",12
-John V. Lindsay East River Park,"Eating, Foraging",12
-John V. Lindsay East River Park,"Eating, Foraging",12
-John V. Lindsay East River Park,"Climbing, Foraging",12
-John V. Lindsay East River Park,"Climbing, Foraging",12
-John V. Lindsay East River Park,Climbing,12
-John V. Lindsay East River Park,Eating,12
-John V. Lindsay East River Park,"Climbing, Eating, Foraging",12
-John V. Lindsay East River Park,"Eating, Foraging",12
- Seward Park,Eating,14
- Seward Park,Eating,14
- Seward Park,Foraging,14
- Seward Park,Climbing,14
- Seward Park,"Climbing, Foraging",14
- Seward Park,"Running, Chasing",14
- Seward Park,"Running, Chasing",14
- Corlears Hook Park,"Running, Climbing, Eating",15
- Corlears Hook Park,"Eating, Foraging",15
- Corlears Hook Park,,15
- Corlears Hook Park,,15
- Corlears Hook Park,,15
- Corlears Hook Park,Ear scratching,15
- Corlears Hook Park,,15
- Corlears Hook Park,Frolicking,15
- Corlears Hook Park,"Running, Climbing, Scratching",15
- Corlears Hook Park,"Running, Climbing",15
- Corlears Hook Park,Posing,15
- Corlears Hook Park,Guarding,15
- Corlears Hook Park,"Running, Chasing, Climbing",15
- Corlears Hook Park,"Running, Chasing, Climbing",15
- Corlears Hook Park,"Running, Chasing, Climbing",15
- Corlears Hook Park,Foraging,15
- Columbus Park,"Climbing, Eating, Foraging",16
- Columbus Park,"Running, Foraging",16
- Columbus Park,,16
- Columbus Park,Climbing,16
- Teardrop Park,Runs From,18
- City Hall Park,Foraging,19
- City Hall Park,Climbing,19
- City Hall Park,Climbing,19
- City Hall Park,"Eating, Burying",19
- City Hall Park,"Eating, Burying",19
- City Hall Park,Eating,19
- City Hall Park,Eating,19
- City Hall Park,Eating,19
- City Hall Park,"Climbing, Foraging",19
- City Hall Park,Running,19
- City Hall Park,"Eating, Foraging",19
- City Hall Park,Very carefully watching a cat,19
- City Hall Park,Chattering,19
- City Hall Park,"Eating (nuts), Foraging",19
- City Hall Park,Running,19
- City Hall Park,"Climbing, Foraging",19
- City Hall Park,"Eating, Foraging",19
- City Hall Park,"Eating, Foraging",19
- Battery Park,,20
- Battery Park,"Climbing, Balancing on fencing",20
- Battery Park,,20
- Battery Park,,20
- Battery Park,,20
- Battery Park,"Chillin', Rubbing butt on ground",20
- Battery Park,Running,20
- Battery Park,Foraging,20
- Battery Park,Foraging,20
- Battery Park,Running,20
- Battery Park,Foraging,20
- Battery Park,Foraging,20
- Battery Park,Eating,20
- Battery Park,Sticking out of a tree,20
- Battery Park,Chasing,20
- Battery Park,Chasing,20
- Battery Park,Hangin' with #13 & #14,20
- Battery Park,,20
- Battery Park,Climbing (tree),20
- Battery Park,,20
- Battery Park,Snacking in a tree,20
- Battery Park,,20
- Battery Park,Prancing about,20
- Battery Park,Climbing fence,20
- Battery Park,,20
- Battery Park,Climbing fence,20
-Msgr. McGolrick Park,battery,21
-Msgr. McGolrick Park,"Climbing, Foraging, Self-cleaning",21
-Msgr. McGolrick Park,Chasing,21
-Msgr. McGolrick Park,Climbing,21
-Msgr. McGolrick Park,Eating,21
-Msgr. McGolrick Park,Eating,21
-Msgr. McGolrick Park,Climbing,21
-Msgr. McGolrick Park,Climbing (down),21
-Msgr. McGolrick Park,Climbing (down),21
-Msgr. McGolrick Park,Climbing (down),21
-Msgr. McGolrick Park,Climbing (down),21
-Msgr. McGolrick Park,Sitting,21
-Msgr. McGolrick Park,Running,21
-Msgr. McGolrick Park,Running,21
-McCarren Park,Eating,22
-McCarren Park,Eating,22
-McCarren Park,Running,22
-McCarren Park,Climbing,22
-McCarren Park,Running,22
-McCarren Park,Climbing,22
-McCarren Park,Chasing,22
-McCarren Park,Running,22
-McCarren Park,"Eating, Foraging",22
-McCarren Park,Climbing,22
-McCarren Park,Running,22
-McCarren Park,"Eating, Foraging",22
-McCarren Park,Climbing,22
-McCarren Park,"Climbing, Sitting in short tree",22
-McCarren Park,Eating,22
-McCarren Park,"Foraging, Jumping",22
-McCarren Park,Chilling,22
-McCarren Park,Hanging,22
-McCarren Park,"Running, Climbing",22
-McCarren Park,Climbing,22
-McCarren Park,"Chasing, Climbing",22
-McCarren Park,Climbing,22
-McCarren Park,Climbing,22
-McCarren Park,"Eating, Foraging",22
-McCarren Park,Foraging,22
-McCarren Park,"Running, Foraging",22
-McCarren Park,"Eating (bread crumbs), Foraging",22
-McCarren Park,Running,22
-McCarren Park,Hanging out,22
-McCarren Park,Foraging,22
-McCarren Park,Foraging,22
-McCarren Park,Foraging,22
-McCarren Park,Foraging,22
-McCarren Park,Sleeping (Dead?),22
-McCarren Park,Sleeping (Dead?),22
-McCarren Park,Eating (tortilla/chip),22
-McCarren Park,Running,22
-McCarren Park,Eating,22
-McCarren Park,Eating,22
-McCarren Park,Foraging,22
-McCarren Park,"Running, Foraging",22
-McCarren Park,Climbing,22
-McCarren Park,"Running, Chasing, Climbing",22
-McCarren Park,Foraging,22
+Park Name,Activities,Park ID,Activity
+Fort Tryon Park,Foraging,1,1
+Fort Tryon Park,Foraging,1,1
+Fort Tryon Park,Eating,1,2
+Fort Tryon Park,Running,1,3
+Fort Tryon Park,Running,1,3
+Fort Tryon Park,Climbing,1,4
+Fort Tryon Park,Foraging,1,1
+Fort Tryon Park,Climbing,1,4
+Fort Tryon Park,Foraging,1,1
+Fort Tryon Park,Eating,1,2
+Fort Tryon Park,Eating,1,2
+Fort Tryon Park,Running,1,3
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,,2,
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Chasing,2,5
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Eating,2,2
+J. Hood Wright Park,Climbing,2,4
+J. Hood Wright Park,Sleeping,2,6
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Eating,2,2
+J. Hood Wright Park,Running,2,3
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Climbing,2,4
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Foraging,2,1
+J. Hood Wright Park,Eating,2,2
+J. Hood Wright Park,Sitting,2,7
+Highbridge Park,Chasing,3,5
+Highbridge Park,Chasing,3,5
+Highbridge Park,Running,3,3
+Highbridge Park,Climbing,3,4
+Highbridge Park,Running,3,3
+Highbridge Park,Running,3,3
+Highbridge Park,Running,3,3
+Highbridge Park,Running,3,3
+Highbridge Park,,3,
+Highbridge Park,Climbing,3,4
+Highbridge Park,Vocalization,3,8
+Highbridge Park,Running,3,3
+Highbridge Park,Running,3,3
+Highbridge Park,Running,3,3
+Highbridge Park,Jumped,3,9
+Highbridge Park,Eating,3,2
+St. Nicholas Park,Climbing,4,4
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Eating,4,2
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Climbing,4,4
+St. Nicholas Park,Chasing,4,5
+St. Nicholas Park,Chasing,4,5
+St. Nicholas Park,Running,4,3
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Running,4,3
+St. Nicholas Park,Foraging,4,1
+St. Nicholas Park,Foraging,4,1
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),Chasing,5,5
+Riverside Park (Section Near Grant Memorial),Chasing,5,5
+Riverside Park (Section Near Grant Memorial),Sitting,5,10
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Chasing,5,5
+Riverside Park (Section Near Grant Memorial),Chasing,5,5
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),Running,5,3
+Riverside Park (Section Near Grant Memorial),,5,
+Riverside Park (Section Near Grant Memorial),Chasing,5,5
+Riverside Park (Section Near Grant Memorial),Chasing,5,5
+Riverside Park (Section Near Grant Memorial),Sitting,5,10
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Eating,5,2
+Riverside Park (Section Near Grant Memorial),Foraging,5,1
+Riverside Park (Section Near Grant Memorial),Foraging,5,1
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Chasing,6,5
+Marcus Garvey Park,Chasing,6,5
+Marcus Garvey Park,Chasing,6,5
+Marcus Garvey Park,Chasing,6,5
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Climbing,6,4
+Marcus Garvey Park,Running,6,3
+Marcus Garvey Park,Running,6,3
+Marcus Garvey Park,Sitting,6,10
+Marcus Garvey Park,Sitting,6,10
+Marcus Garvey Park,Sitting,6,10
+Marcus Garvey Park,Sitting,6,10
+Marcus Garvey Park,Defending tree,6,11
+Marcus Garvey Park,Defending tree,6,11
+Marcus Garvey Park,Defending tree,6,11
+Marcus Garvey Park,Defending tree,6,11
+Marcus Garvey Park,Defending tree,6,11
+Marcus Garvey Park,Defending tree,6,11
+Marcus Garvey Park,Eating,6,2
+Marcus Garvey Park,Chasing,6,5
+Marcus Garvey Park,Chasing,6,5
+Marcus Garvey Park,Climbing,6,6
+Marcus Garvey Park,Climbing,6,6
+Marcus Garvey Park,Cleaning,6,12
+Marcus Garvey Park,Climbing,6,4
+Madison Square Park,Foraging,7,1
+Madison Square Park,Sitting,7,10
+Madison Square Park,Foraging,7,1
+Madison Square Park,Resting in tree,7,13
+Madison Square Park,Running,7,3
+Madison Square Park,Sitting,7,10
+Madison Square Park,Sitting,7,10
+Madison Square Park,Foraging,7,1
+Madison Square Park,Foraging,7,1
+Madison Square Park,Climbing,7,4
+Madison Square Park,Running,7,3
+Union Square Park,Climbing,8,4
+Union Square Park,Running,8,3
+Union Square Park,Foraging,8,1
+Union Square Park,Foraging,8,1
+Union Square Park,Digging,8,14
+Union Square Park,Climbing,8,4
+Union Square Park,Climbing,8,4
+Union Square Park,Climbing,8,4
+Union Square Park,Running,8,3
+Union Square Park,Eating,8,2
+Union Square Park,Foraging,8,1
+Union Square Park,Eating,8,2
+Union Square Park,Foraging,8,1
+Union Square Park,Eating,8,2
+Union Square Park,Eating,8,2
+Union Square Park,Eating,8,2
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Climbing,9,4
+Stuyvesant Square Park,Climbing,9,4
+Stuyvesant Square Park,Climbing,9,4
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Chasing,9,5
+Stuyvesant Square Park,Chasing,9,5
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Climbing,9,4
+Stuyvesant Square Park,Chasing,9,5
+Stuyvesant Square Park,Eating,9,2
+Stuyvesant Square Park,Eating,9,2
+Stuyvesant Square Park,Eating,9,2
+Stuyvesant Square Park,,9,
+Stuyvesant Square Park,Eating,9,2
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Grooming,9,15
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,,9,
+Stuyvesant Square Park,,9,
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Foraging,9,1
+Stuyvesant Square Park,Foraging,9,1
+Washington Square Park,Foraging,10,1
+Washington Square Park,Foraging,10,1
+Washington Square Park,Foraging,10,1
+Washington Square Park,Foraging,10,1
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,Foraging,10,1
+Washington Square Park,,10,
+Washington Square Park,Nesting,10,16
+Washington Square Park,Climbing,10,4
+Washington Square Park,Chasing,10,5
+Washington Square Park,Eating,10,2
+Washington Square Park,Chasing,10,5
+Washington Square Park,Chasing,10,5
+Washington Square Park,Chasing,10,5
+Washington Square Park,Chasing,10,5
+Washington Square Park,Chasing,10,5
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,Foraging,10,1
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Washington Square Park,,10,
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Running,11,3
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Chasing,11,5
+Tompkins Square Park,Chasing,11,5
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Sitting,11,10
+Tompkins Square Park,Sitting,11,10
+Tompkins Square Park,Lounging,11,6
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Running,11,3
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Sitting,11,10
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Chasing,11,5
+Tompkins Square Park,Chasing,11,5
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Climbing,11,4
+Tompkins Square Park,Foraging,11,1
+Tompkins Square Park,Foraging,11,1
+John V. Lindsay East River Park,Running,12,3
+John V. Lindsay East River Park,Running,12,3
+John V. Lindsay East River Park,Climbing,12,4
+John V. Lindsay East River Park,Running,12,3
+John V. Lindsay East River Park,Eating,12,2
+John V. Lindsay East River Park,Eating,12,2
+John V. Lindsay East River Park,Climbing,12,4
+John V. Lindsay East River Park,Climbing,12,4
+John V. Lindsay East River Park,Climbing,12,4
+John V. Lindsay East River Park,Eating,12,2
+John V. Lindsay East River Park,Climbing,12,4
+John V. Lindsay East River Park,Eating,12,2
+ Seward Park,Eating,14,2
+ Seward Park,Eating,14,2
+ Seward Park,Foraging,14,1
+ Seward Park,Climbing,14,4
+ Seward Park,Climbing,14,4
+ Seward Park,Running,14,3
+ Seward Park,Running,14,3
+ Corlears Hook Park,Running,15,3
+ Corlears Hook Park,Eating,15,2
+ Corlears Hook Park,,15,
+ Corlears Hook Park,,15,
+ Corlears Hook Park,,15,
+ Corlears Hook Park,Sleeping,15,6
+ Corlears Hook Park,,15,
+ Corlears Hook Park,Frolicking,15,6
+ Corlears Hook Park,Running,15,3
+ Corlears Hook Park,Running,15,3
+ Corlears Hook Park,Posing,15,17
+ Corlears Hook Park,Guarding,15,18
+ Corlears Hook Park,Running,15,3
+ Corlears Hook Park,Running,15,3
+ Corlears Hook Park,Running,15,3
+ Corlears Hook Park,Foraging,15,1
+ Columbus Park,Climbing,16,4
+ Columbus Park,Running,16,3
+ Columbus Park,,16,
+ Columbus Park,Climbing,16,4
+ Teardrop Park,Running,18,3
+ City Hall Park,Foraging,19,1
+ City Hall Park,Climbing,19,4
+ City Hall Park,Climbing,19,4
+ City Hall Park,Eating,19,2
+ City Hall Park,Eating,19,2
+ City Hall Park,Eating,19,2
+ City Hall Park,Eating,19,2
+ City Hall Park,Eating,19,2
+ City Hall Park,Climbing,19,4
+ City Hall Park,Running,19,3
+ City Hall Park,Eating,19,2
+ City Hall Park,Very carefully watching a cat,19,19
+ City Hall Park,Chattering,19,20
+ City Hall Park,Eating,19,2
+ City Hall Park,Running,19,3
+ City Hall Park,Climbing,19,4
+ City Hall Park,Eating,19,2
+ City Hall Park,Eating,19,2
+ Battery Park,,20,
+ Battery Park,Climbing,20,4
+ Battery Park,,20,
+ Battery Park,,20,
+ Battery Park,,20,
+ Battery Park,Chillin Rubbing butt on ground,20,21
+ Battery Park,Running,20,3
+ Battery Park,Foraging,20,1
+ Battery Park,Foraging,20,1
+ Battery Park,Running,20,3
+ Battery Park,Foraging,20,1
+ Battery Park,Foraging,20,1
+ Battery Park,Eating,20,2
+ Battery Park,Sticking out of a tree,20,22
+ Battery Park,Chasing,20,5
+ Battery Park,Chasing,20,5
+ Battery Park,Hangin,20,22
+ Battery Park,,20,
+ Battery Park,Climbing,20,4
+ Battery Park,,20,
+ Battery Park,Snacking,20,23
+ Battery Park,,20,
+ Battery Park,Prancing,20,24
+ Battery Park,Climbing,20,4
+ Battery Park,,20,
+ Battery Park,Climbing,20,4
+Msgr. McGolrick Park,battery,21,25
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Chasing,21,5
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Eating,21,2
+Msgr. McGolrick Park,Eating,21,2
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Climbing,21,4
+Msgr. McGolrick Park,Sitting,21,7
+Msgr. McGolrick Park,Running,21,3
+Msgr. McGolrick Park,Running,21,3
+McCarren Park,Eating,22,2
+McCarren Park,Eating,22,2
+McCarren Park,Running,22,3
+McCarren Park,Climbing,22,4
+McCarren Park,Running,22,3
+McCarren Park,Climbing,22,4
+McCarren Park,Chasing,22,5
+McCarren Park,Running,22,3
+McCarren Park,Eating,22,2
+McCarren Park,Climbing,22,4
+McCarren Park,Running,22,3
+McCarren Park,Eating,22,2
+McCarren Park,Climbing,22,4
+McCarren Park,Climbing,22,4
+McCarren Park,Eating,22,2
+McCarren Park,Foraging,22,1
+McCarren Park,Chilling,22,26
+McCarren Park,Hanging,22,27
+McCarren Park,Running,22,3
+McCarren Park,Climbing,22,4
+McCarren Park,Chasing,22,5
+McCarren Park,Climbing,22,4
+McCarren Park,Climbing,22,4
+McCarren Park,Eating,22,2
+McCarren Park,Foraging,22,1
+McCarren Park,Running,22,3
+McCarren Park,Eating,22,2
+McCarren Park,Running,22,3
+McCarren Park,Hanging out,22,27
+McCarren Park,Foraging,22,1
+McCarren Park,Foraging,22,1
+McCarren Park,Foraging,22,1
+McCarren Park,Foraging,22,1
+McCarren Park,Sleeping,22,6
+McCarren Park,Sleeping,22,6
+McCarren Park,Eating,22,2
+McCarren Park,Running,22,3
+McCarren Park,Eating,22,2
+McCarren Park,Eating,22,2
+McCarren Park,Foraging,22,1
+McCarren Park,Running,22,3
+McCarren Park,Climbing,22,4
+McCarren Park,Running,22,3
+McCarren Park,Foraging,22,1
